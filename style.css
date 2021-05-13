@@ -1,0 +1,46 @@
+.heading{
+width:100%;
+font-size: 25px;
+margin: 0px;
+box-shadow: 5px 5px 11px orangered;
+}
+
+.heading_div{
+    float: none;
+    background: rgb(8, 206, 255);
+    padding: 10px;
+    border-radius: 25px;
+    color: lightgoldenrodyellow;
+    box-shadow:5px 5px 11px cyan;
+}
+.heading_div2{
+    font-size: 20px;
+    color: black;
+}
+
+.p1{
+font-size: 20px;
+box-shadow: 5px 5px 11px black;
+}
+
+.p2{
+font-size: 20px;
+box-shadow: 5px 5px 11px black;
+}
+
+.footer{
+    color: grey;
+    background-color: lightsteelblue;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas{
+    border:5px solid darkgray;
+    border-radius: 20px;
+    margin-top:250px ;
+    box-shadow: 5px 5px 11px black;
+}
